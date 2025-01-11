@@ -4,6 +4,7 @@
 
 ## ACM MM 2024 Oral 
 
-## Framework
+## image
 
-![Framework](https://wyqcrystal/ECRL/image.png)
+![image](https://github.com/user-attachments/assets/8a96ac4e-0121-4cc7-85c4-181fdde8c63d)
+
