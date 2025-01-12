@@ -3,7 +3,8 @@ The source code is for the paper: [Modeling Event-level Causal Representation fo
 
 ## Overview
 ECRL introduces an Event-level Causal Representation Learning method to enhance the model’s causal awareness of event information. The architecture of ECRL is illustrated in Fig. An event-level causal graph is constructed using the Frame-to-Video Causal Modeling (F2VCM) module, which explores the event correlations by finding the correlation between the foreground and background of the video frames; the Causality-aware Event-level Representation Inference (CERI) module eliminates background and data bias in video data by implementing causal intervention on the causal graph. This enables the model to find information directly related to event representation and the causal structure in video classification tasks.
-![image](https://github.com/user-attachments/assets/f9440f9c-312c-4113-8052-8a7ebd571736)
+![image](https://github.com/user-attachments/assets/2b7e068d-2871-47f3-9d6f-db2b180aed9a)
+
 
 ## Dependencies
 
